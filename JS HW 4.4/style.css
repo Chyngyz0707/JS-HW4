@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-color: rgb(40, 119, 119);
+}
+.counter{
+    text-align: center;
+    font-size: 97px;
+}
+
